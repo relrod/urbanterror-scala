@@ -87,7 +87,9 @@ object UrbanTerror {
     5 -> "Follow the Leader",
     6 -> "Capture and Hold",
     7 -> "Capture the Flag",
-    8 -> "Bomb Mode"
+    8 -> "Bomb Mode",
+    9 -> "Jump",
+    10 -> "Freeze Tag"
   )
 
   def main(args: Array[String]) = {
